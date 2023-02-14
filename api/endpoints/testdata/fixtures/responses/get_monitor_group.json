@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "group_id": "113770000041271035",
+    "display_name": "Group1",
+    "description": "Group all IDC monitors.",
+    "monitors": [
+      "726000000002460",
+      "726000000002464"
+    ],
+    "suppress_alert": false,
+    "health_threshold_count": 1
+  }
+}

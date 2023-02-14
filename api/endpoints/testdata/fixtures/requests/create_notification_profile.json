@@ -1,0 +1,6 @@
+{
+  "rca_needed": true,
+  "notify_after_executing_actions": true,
+  "profile_name": "Notifi Profile",
+  "suppress_automation": false
+}
